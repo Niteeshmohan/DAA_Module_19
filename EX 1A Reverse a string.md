@@ -13,7 +13,7 @@ To write a program to create a recursive function to reverse a string.
 
 ## Program:
 
-### Developed By: NITEESSH M
+### Developed By: NITEESH M
 ### Register Number:212222230098
 
 ```
